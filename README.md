@@ -1,1 +1,1 @@
-Feature branch update
+Both are updated
