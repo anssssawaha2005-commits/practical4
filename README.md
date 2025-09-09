@@ -1,1 +1,1 @@
-Main branch update
+Both are updated
